@@ -2,7 +2,7 @@ let female_data = [];
 let male_data = [];
 let chosenCountry = ['Turkey', 'Togo', 'Syria', 'Spain', 'South Korea'];
 
-// Hint: This is a great place to declare your global variables
+// Hint: This is a great place to declare your global variables 
 
 
 // This function is called once the HTML page is fully loaded by the browser
